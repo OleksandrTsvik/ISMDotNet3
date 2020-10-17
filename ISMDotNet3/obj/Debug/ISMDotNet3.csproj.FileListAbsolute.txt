@@ -1,0 +1,7 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №03\ISMDotNet3\ISMDotNet3\bin\Debug\ISMDotNet3.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №03\ISMDotNet3\ISMDotNet3\bin\Debug\ISMDotNet3.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №03\ISMDotNet3\ISMDotNet3\bin\Debug\ISMDotNet3.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №03\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №03\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №03\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №03\ISMDotNet3\ISMDotNet3\obj\Debug\ISMDotNet3.pdb
